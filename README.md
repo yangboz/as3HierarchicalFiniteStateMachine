@@ -13,7 +13,7 @@ http://www.drdobbs.com/184402040;jsessionid=PYAOQHC2ZEFFFQE1GHPCKHWATMY32JVN?pgn
 
 * Maven repository
 
-http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3ANN/
+http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3HierarchicalFiniteStateMachine/
 
 * TODO List:
 
