@@ -5,6 +5,8 @@ An Action Script 3 implementation of hierarchical finite-state machine (HFSM).
 
 * Dependency:
 
+as3Logger, https://github.com/yangboz/as3FiniteStateMachine
+
 asFiniteStateMachine, https://github.com/yangboz/as3Logger
 
 * Usage Example:
