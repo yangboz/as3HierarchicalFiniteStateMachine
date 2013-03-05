@@ -53,7 +53,14 @@
 			<version>${flex.framework.version}</version>
 			<type>pom</type>
 		</dependency>
-
+		
+		<dependency>
+			<groupId>com.godpaper.as3</groupId>
+			<artifactId>as3FiniteStateMachine</artifactId>
+			<version>[0.0.1-SNAPSHOT, ]</version>
+			<type>swc</type>
+		</dependency>
+		
 		<dependency>
 			<groupId>com.godpaper.as3</groupId>
 			<artifactId>as3Logger</artifactId>
